@@ -1,2 +1,2 @@
 # social-network--human-bot-detection
-首届社交媒体智能算法大赛赛题一
+首届社交群体智能算法大赛赛题一
